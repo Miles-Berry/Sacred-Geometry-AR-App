@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-native": "^0.73.6",
+    "react-native-ar-viewer": "^0.1.17"
+  }
+}
